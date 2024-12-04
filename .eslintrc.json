@@ -1,0 +1,11 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "no-duplicate-imports": "error",
+    "no-console": "off",
+    "no-alert": "error",
+    "react/no-unknown-property": "off",
+    "react/no-unescaped-entities ": "off",
+    "padding-line-between-statements": "off"
+  }
+}
